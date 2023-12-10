@@ -1,5 +1,4 @@
 import pandas as pd
-import seaborn as sns 
 import matplotlib.pyplot as plt 
 from sklearn.preprocessing import StandardScaler
 from sklearn.datasets import load_iris
